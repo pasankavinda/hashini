@@ -1,2 +1,0 @@
-# hashini
-hashini project
